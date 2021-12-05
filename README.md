@@ -1,3 +1,6 @@
+专为渗透测试者设计的网络钓鱼平台。该工具使我们能够在 Outlook 中制作网络钓鱼电子邮件、快速克隆它们、自动为其设置模板以进行大规模分发、测试电子邮件模板、安排网络钓鱼活动并跟踪网络钓鱼结果。
+
+与流行的网络钓鱼框架（如 GoPhish）相比，它允许对 SMTP 和邮件标头进行更精细的控制，允许直接服务器到服务器 SMTP，支持 DMARC 和 DKIM，并且可以使用 websockets 显示实时结果，而无需刷新结果页
 ## Phishmonger
 
 Phishing platform designed for pentesters. This tool allows us to craft phishing emails in Outlook, clone them quickly, automatically template them for mass distribution, test email templates, schedule phishing campaigns, and track phishing results. 
